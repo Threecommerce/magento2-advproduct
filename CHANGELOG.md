@@ -5,6 +5,10 @@ Tutte le modifiche rilevanti a questo modulo sono documentate in questo file.
 Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.1.0/)
 e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/).
 
+## 1.0.1
+
+- Sicurezza: il "Link ADV" accetta solo `http`, `https`, `mailto`, `tel` e `//`; altri schemi (`javascript:`, `data:`) ripiegano sull'URL del prodotto.
+
 ## [1.0.0] - 2026-10-14
 
 ### Added
