@@ -4,7 +4,7 @@ An **Adv Product** type for Magento 2 and Mage-OS: promotional cards that sit in
 
 ![Adv Product edit form in the Magento admin with the Link ADV and button text fields](images/adv-product-admin-form.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4+ · Mage-OS · PHP 8.1 – 8.4 · Tested on Breeze; links, hidden price and redirect also work on Luma and Hyvä
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4+ · Mage-OS · PHP 8.1 – 8.5 · Tested on Breeze; links, hidden price and redirect also work on Luma and Hyvä
 **License:** commercial · coming soon
 
 ## Features
@@ -25,7 +25,7 @@ An **Adv Product** type for Magento 2 and Mage-OS: promotional cards that sit in
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - Package: `threecommerce/m2-base`
 
 ## Availability
